@@ -52,7 +52,7 @@ Alongside DSA and AI/ML, I'm building practical development skills through proje
 ### 🟠 LeetCode
 
 <a href="https://leetcode.com/u/mishrakumarlav//">
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 I currently have **250+ problems solved** and use LeetCode primarily to improve algorithmic thinking and problem-solving.
